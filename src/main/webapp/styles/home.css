@@ -1,0 +1,14 @@
+td img{
+	width: 30px;
+	height: 30px;
+	filter: invert(1);
+}
+
+.my-center{
+	display: grid;
+	place-items: center;
+}
+
+a{
+	width: unset;
+}
